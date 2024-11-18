@@ -13,7 +13,10 @@
 			<img class="lg:min-w-max" src="/cover.png" alt="cover" />
 		</div>
 		<div class="text-black h-max text-base sm:text-2xl lg:text-base">
-			<div class="h-max text-center lg:text-base font-bold p-5 sm:p-10 xl:p-10">Pengantar</div>
+			<div class="flex w-full flex-row-reverse lg:absolute lg:right-0 lg:top-0 p-2">
+				<img class="w-20 lg:w-10" src="/assets/logo_sinlui.png" alt="logo sinlui">
+			</div>
+			<div class="h-max text-center lg:text-base font-bold p-5 sm:p-10 xl:p-5">Pengantar</div>
 			<div class="min-h-max pb-10 lg:text-sm xl:text-base px-10">
 				Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa karena berkat rahmat dan
 				karunia-Nya, buku fiksi ini dapat terselesaikan. Buku ini adalah kumpulan cerita yang lahir
