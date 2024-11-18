@@ -34,8 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"pdfjs-dist": "^4.8.69",
-		"svelte-pdf": "^1.0.20",
+		"sass": "^1.81.0",
 		"svelte-reader": "^1.1.0",
 		"tailwind-scrollbar": "^3.1.0"
 	}
